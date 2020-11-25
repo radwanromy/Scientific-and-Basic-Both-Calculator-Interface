@@ -1,0 +1,13 @@
+C:\Users\RadwanRomy\source\repos\TestInterfaces\TestInterfaces\obj\Debug\netcoreapp3.1\TestInterfaces.csprojAssemblyReference.cache
+C:\Users\RadwanRomy\source\repos\TestInterfaces\TestInterfaces\obj\Debug\netcoreapp3.1\TestInterfaces.AssemblyInfoInputs.cache
+C:\Users\RadwanRomy\source\repos\TestInterfaces\TestInterfaces\obj\Debug\netcoreapp3.1\TestInterfaces.AssemblyInfo.cs
+C:\Users\RadwanRomy\source\repos\TestInterfaces\TestInterfaces\obj\Debug\netcoreapp3.1\TestInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\RadwanRomy\source\repos\TestInterfaces\TestInterfaces\bin\Debug\netcoreapp3.1\TestInterfaces.exe
+C:\Users\RadwanRomy\source\repos\TestInterfaces\TestInterfaces\bin\Debug\netcoreapp3.1\TestInterfaces.deps.json
+C:\Users\RadwanRomy\source\repos\TestInterfaces\TestInterfaces\bin\Debug\netcoreapp3.1\TestInterfaces.runtimeconfig.json
+C:\Users\RadwanRomy\source\repos\TestInterfaces\TestInterfaces\bin\Debug\netcoreapp3.1\TestInterfaces.runtimeconfig.dev.json
+C:\Users\RadwanRomy\source\repos\TestInterfaces\TestInterfaces\bin\Debug\netcoreapp3.1\TestInterfaces.dll
+C:\Users\RadwanRomy\source\repos\TestInterfaces\TestInterfaces\bin\Debug\netcoreapp3.1\TestInterfaces.pdb
+C:\Users\RadwanRomy\source\repos\TestInterfaces\TestInterfaces\obj\Debug\netcoreapp3.1\TestInterfaces.dll
+C:\Users\RadwanRomy\source\repos\TestInterfaces\TestInterfaces\obj\Debug\netcoreapp3.1\TestInterfaces.pdb
+C:\Users\RadwanRomy\source\repos\TestInterfaces\TestInterfaces\obj\Debug\netcoreapp3.1\TestInterfaces.genruntimeconfig.cache
