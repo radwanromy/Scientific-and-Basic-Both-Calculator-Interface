@@ -6,7 +6,7 @@ namespace TestInterfaces
 {
     interface ScientificCalculatorInterface
     {
-      //  int XtoY(int x, int y);
+        int XtoY(int x, int y);
         double division(double x, double y);
         int factorial(int x);
     }
@@ -45,6 +45,28 @@ namespace TestInterfaces
             Console.WriteLine("Result : " + r);
             return 0;
 
+        }
+        public void SwapNum(ref int x, ref int y)
+        {
+
+            int tempswap = x;
+            x = y;
+            y = tempswap;
+        }
+        public int XtoY(int a , int b)
+        {
+            Console.WriteLine("Value of X and Y before sawapping");
+          //  Console.WriteLine();
+            Console.WriteLine("X=" + " " + a);
+            Console.WriteLine("Y=" + " " + b);
+            SwapNum(ref a, ref b);
+            Console.WriteLine();
+            Console.WriteLine("Value of X and Y after sawapping");
+           // Console.WriteLine();
+            Console.WriteLine("X=" + " " + a);
+            Console.WriteLine("Y=" + " " + b);
+            Console.ReadLine();
+            return 0;
         }
         public void printStates()
         {
